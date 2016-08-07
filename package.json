@@ -4,15 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "scripts/install.js"
   },
   "author": "Austin Rausch",
-  "license": "MIT",
-  "config": {
-      "branch-name-commit-modifier": {
-          "preChar": "{",
-          "postChar": "}",
-          "projectName": "TEST-PROJECT"
-      }
-  }
+  "license": "MIT"
 }
