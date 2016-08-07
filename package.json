@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/austin-rausch/branch-name-commit-modifier",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "scripts/install.js"
